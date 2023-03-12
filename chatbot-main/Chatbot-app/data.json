@@ -81,22 +81,22 @@
     },
     {"tag": "rank",
      "patterns": ["college ranking in city/state","where does the college stand in the state","ranking","what is the college ranking"],
-     "responses": ["VESIT has secured the 1st Rank in state of Maharashtra and 26th in India among the top 100 private Engineering Institutes as per Education World Rankings in 2018-19 "],
+     "responses": ["PSNA has secured the 25TH Rank in state of TAMILNADU and 150th in India as per the NIRF ranking "],
      "context_set": ""
     },
     {"tag": "DD",
      "patterns": ["What should be the name on the dd?"],
-     "responses": ["the name on the DD should be VESIT"],
+     "responses": ["the name on the DD should be PSNA"],
      "context_set": ""
     },
     {"tag": "cutoff/seats/intake",
      "patterns": ["What is the last year cut off?","Cutoff for each branch","No of seats of each branch","what is the cut-off for diploma student for DSE  admission of computer branch","what is the intake","seats"],
-     "responses": [" please check out the given link for the details about intake, seats and cutoff https://vesitadmissions.ves.ac.in/"],
+     "responses": [" please check out the given link for the details about intake, seats and cutoff https://www.psnacet.edu.in/admissions/Courses-Offered.php"],
      "context_set": ""
     },
     {"tag": "fests",
      "patterns": ["What fest are organised by the college","what are the fests in college","are there any fests in college"],
-     "responses": ["The fests in the odd sem are : Prarambh ,Praxis(technical fest),Octaves  in even sem: Utsav, illusions."],
+     "responses": ["The fests in the odd sem are : NOTHING!!, in even sem:THE SAME!!!"],
      "context_set": ""
     },
     {"tag": "working_days",
@@ -105,7 +105,7 @@
      "context_set": ""
     },
     {"tag": "ACAP",
-     "patterns": ["What is ACAP process for vesit?","What is ACAP"],
+     "patterns": ["What is ACAP process for PSNA?","What is ACAP"],
      "responses": ["ACAP is an admission process where you apply for the college through institute level."],
      "context_set": ""
     },
@@ -176,7 +176,7 @@
     },
     {"tag": "internships",
      "patterns": ["Information on Internships ","are their any internships","does college provide internships"],
-     "responses": ["VESIT provides internship oppurtunities to students during their summer and winter break"],
+     "responses": ["PSNA provides internship oppurtunities to students during their summer and winter break"],
      "context_set": ""
     },
     {"tag": "exams",
